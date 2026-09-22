@@ -2,7 +2,7 @@
 
 **从创意到交付，找到你的工作入口与协作方向。**
 
-[← 返回资料库](../README.md)　·　[↓ 下载完整手册 PDF（6 页）](100x-ecosystem.pdf)
+[🔙 返回资料库](../README.md)　·　[📄 下载完整手册 PDF（6 页）](100x-ecosystem.pdf)
 
 <img src="../assets/readme/hero.png" width="720" alt="100xROADMAP 产品角色示意">
 
@@ -166,6 +166,6 @@ MCP 方向可以做安装体验、任务反馈与文件交付；SKILL 方向可�
 
 ---
 
-[↓ 保存这份完整手册](100x-ecosystem.pdf)　·　[← 返回生态目录](../README.md)
+[📄 保存这份完整手册](100x-ecosystem.pdf)　·　[🔙 返回生态目录](../README.md)
 
 资料更新：2026-09-22。插图与示例用于解释产品角色；实际能力与接入以对应产品为准。展示内容使用说明见 [RIGHTS.md](../RIGHTS.md)。

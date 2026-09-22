@@ -2,7 +2,7 @@
 
 **让好方法留下结构，让每一步都有可检查的结果。**
 
-[← 返回资料库](../../README.md)　·　[↓ 下载完整手册 PDF（6 页）](100xskill.pdf)
+[🔙 返回资料库](../../README.md)　·　[📄 下载完整手册 PDF（6 页）](100xskill.pdf)
 
 <img src="../../assets/readme/skill-preview.png" width="720" alt="100xSKILL 产品角色示意">
 
@@ -160,6 +160,6 @@ SKILL 可以帮助分析素材、改编脚本和准备提示词；MCP 可以连�
 
 ---
 
-[↓ 保存这份完整手册](100xskill.pdf)　·　[← 返回生态目录](../../README.md)
+[📄 保存这份完整手册](100xskill.pdf)　·　[🔙 返回生态目录](../../README.md)
 
 资料更新：2026-09-22。插图与示例用于解释产品角色；实际能力与接入以对应产品为准。展示内容使用说明见 [RIGHTS.md](../../RIGHTS.md)。

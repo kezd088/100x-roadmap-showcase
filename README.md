@@ -6,7 +6,7 @@
 面向内容创作者、跨境电商团队与开发者。<br>
 看懂产品 · 下载介绍 · 参与建设
 
-**[↗ 生态总览](overview/README.md)**　·　**[↓ 总览 PDF](overview/100x-ecosystem.pdf)**
+**[🧭 生态总览](overview/README.md)**　·　**[📄 总览 PDF](overview/100x-ecosystem.pdf)**
 
 ## ✦ 探索五个产品
 
@@ -20,7 +20,7 @@
 **把想法整理成任务，把结果留成素材。**<br>
 创意准备 · 批量生成 · 资产管理
 
-[↗ 产品介绍](products/100xspeed/README.md)　·　[↓ PDF](products/100xspeed/100xspeed.pdf)　·　[◇ 完整图解](products/100xspeed/overview.png)
+[📖 产品介绍](products/100xspeed/README.md)　·　[📄 PDF](products/100xspeed/100xspeed.pdf)　·　[🖼️ 完整图解](products/100xspeed/overview.png)
 
 ---
 
@@ -31,7 +31,7 @@
 **让图片与视频生成，接入你的产品。**<br>
 提交请求 · 跟踪任务 · 取得结果
 
-[↗ 产品介绍](products/100xapi/README.md)　·　[↓ PDF](products/100xapi/100xapi.pdf)　·　[◇ 完整图解](products/100xapi/overview.png)
+[📖 产品介绍](products/100xapi/README.md)　·　[📄 PDF](products/100xapi/100xapi.pdf)　·　[🖼️ 完整图解](products/100xapi/overview.png)
 
 ---
 
@@ -42,7 +42,7 @@
 **看清模型与线路，再做接入选择。**<br>
 能力匹配 · 价格口径 · 运行观察
 
-[↗ 产品介绍](products/100xroute/README.md)　·　[↓ PDF](products/100xroute/100xroute.pdf)　·　[◇ 完整图解](products/100xroute/overview.png)
+[📖 产品介绍](products/100xroute/README.md)　·　[📄 PDF](products/100xroute/100xroute.pdf)　·　[🖼️ 完整图解](products/100xroute/overview.png)
 
 ---
 
@@ -53,7 +53,7 @@
 **在 Agent 对话中，完成素材生成。**<br>
 发现能力 · 确认预算 · 生成与下载
 
-[↗ 产品介绍](products/100xmcp/README.md)　·　[↓ PDF](products/100xmcp/100xmcp.pdf)　·　[◇ 完整图解](products/100xmcp/overview.png)
+[📖 产品介绍](products/100xmcp/README.md)　·　[📄 PDF](products/100xmcp/100xmcp.pdf)　·　[🖼️ 完整图解](products/100xmcp/overview.png)
 
 ---
 
@@ -64,7 +64,7 @@
 **把内容方法，变成可重复的工作步骤。**<br>
 素材分析 · 表达改编 · 提示词准备
 
-[↗ 产品介绍](products/100xskill/README.md)　·　[↓ PDF](products/100xskill/100xskill.pdf)　·　[◇ 完整图解](products/100xskill/overview.png)
+[📖 产品介绍](products/100xskill/README.md)　·　[📄 PDF](products/100xskill/100xskill.pdf)　·　[🖼️ 完整图解](products/100xskill/overview.png)
 
 ## ✦ 在地图中看位置
 
@@ -73,7 +73,7 @@
 复用实际产品地图组件，使用公开系列标签。<br>
 内部项目与优先级已省略；完整地图向受邀成员开放。
 
-[↗ ROADMAP 邀请访问入口](https://roadmap.dkinc.dev/)
+[🗺️ ROADMAP 邀请访问入口](https://roadmap.dkinc.dev/)
 
 ## ✦ 从哪里开始
 
@@ -87,7 +87,7 @@
 通过现有联系人说明你的经历与想做的事。<br>
 确认范围、交付物与访问权限后开始。
 
-[↗ 公开反馈](https://github.com/kezd088/100x-roadmap-showcase/issues)　·　[↓ 生态介绍 PDF](overview/100x-ecosystem.pdf)
+[💬 公开反馈](https://github.com/kezd088/100x-roadmap-showcase/issues)　·　[📄 生态介绍 PDF](overview/100x-ecosystem.pdf)
 
 ---
 

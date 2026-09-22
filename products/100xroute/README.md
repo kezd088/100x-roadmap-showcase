@@ -2,7 +2,7 @@
 
 **把模型、候选线路与判断依据放在一起。**
 
-[← 返回资料库](../../README.md)　·　[↓ 下载完整手册 PDF（6 页）](100xroute.pdf)
+[🔙 返回资料库](../../README.md)　·　[📄 下载完整手册 PDF（6 页）](100xroute.pdf)
 
 <img src="../../assets/readme/route-preview.png" width="720" alt="100xROUTE 产品角色示意">
 
@@ -159,6 +159,6 @@ ROUTE 关注有哪些选择、如何管理与判断；API 关注调用方如何�
 
 ---
 
-[↓ 保存这份完整手册](100xroute.pdf)　·　[← 返回生态目录](../../README.md)
+[📄 保存这份完整手册](100xroute.pdf)　·　[🔙 返回生态目录](../../README.md)
 
 资料更新：2026-09-22。插图与示例用于解释产品角色；实际能力与接入以对应产品为准。展示内容使用说明见 [RIGHTS.md](../../RIGHTS.md)。
